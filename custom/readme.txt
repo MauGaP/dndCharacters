@@ -1,4 +1,4 @@
-Aurora Content Archive: 2022/3/20
+Aurora Content Archive: 2022/8/17
 
 Warning: Do not use this archive in combination with (older) files from the old repository, they are not compatible. When in doubt, remove all old content and index files (if you have them) and then extract the content of this archive fresh.
 

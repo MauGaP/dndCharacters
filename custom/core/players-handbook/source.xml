@@ -206,7 +206,7 @@
 		<compendium display="false" />
 		<supports>COUNTS_AS_CREATURE_TYPE, Goblinoid</supports>
 		<description>
-			<html>&lt;p&gt;Your creature type is Humanoid. You are also considered a dwarf goblinoid any prerequisite or effect that requires you to be a goblinoid.&lt;/p&gt;</html>
+			<html>&lt;p&gt;Your creature type is Humanoid. You are also considered a goblinoid any prerequisite or effect that requires you to be a goblinoid.&lt;/p&gt;</html>
 		</description>
 		<sheet alt="Humanoid">
 			<description>Your creature type is Humanoid. You are also considered a goblinoid for any prerequisite or effect that requires you to be a goblinoid.</description>
@@ -248,10 +248,10 @@
 		<compendium display="false" />
 		<supports>COUNTS_AS_CREATURE_TYPE, Elf</supports>
 		<description>
-			<html>&lt;p&gt;Your creature type is Humanoid. You are also considered a elf for any prerequisite or effect that requires you to be a elf.&lt;/p&gt;</html>
+			<html>&lt;p&gt;Your creature type is Humanoid. You are also considered an elf for any prerequisite or effect that requires you to be an elf.&lt;/p&gt;</html>
 		</description>
 		<sheet alt="Humanoid">
-			<description>Your creature type is Humanoid. You are also considered a elf for any prerequisite or effect that requires you to be a elf.</description>
+			<description>Your creature type is Humanoid. You are also considered an elf for any prerequisite or effect that requires you to be an elf.</description>
 		</sheet>
 		<rules>
 			<grant type="Grants" id="ID_INTERNAL_GRANTS_CREATURE_TYPE_HUMANOID" />
